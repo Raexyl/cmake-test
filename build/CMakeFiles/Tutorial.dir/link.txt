@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTutorial.a CMakeFiles/Tutorial.dir/main.cpp.o CMakeFiles/Tutorial.dir/Square.cpp.o
+/usr/bin/ranlib libTutorial.a

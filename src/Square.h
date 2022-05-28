@@ -1,0 +1,2 @@
+
+float Square(float input);
